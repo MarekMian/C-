@@ -1,4 +1,4 @@
-Projekt ze studiów polegający na stworzeniu prostej Bazy Danych.
+Program w C++ w ramach projektu na studiach wykonujący proste operacje na bazie danych.
 Program Przetwarza dane z pliku Library.bin i pozwala użytkownikowi: 
 
   -dodawać dane do tego pliku (wedle wyznaczonego schematu)
